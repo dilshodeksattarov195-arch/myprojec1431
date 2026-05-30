@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvecrypt",
+        "uuid": 7936326,
+        "checksum": "dyucq6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
